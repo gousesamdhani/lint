@@ -1,0 +1,1 @@
+export {typeScriptSyntax} from './typescript';
